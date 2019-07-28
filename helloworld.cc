@@ -6,11 +6,11 @@ void test0()
     cout<<"test0()"<<endl;
 }
 
-
 int main()
 {
-    cout<<"HelloWorld"<<endl;    
-	test0();
+    cout<<"HelloWorld"<<endl;
+    test0();
+
     return 0;
 }
 

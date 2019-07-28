@@ -1,2 +1,2 @@
-day1
-day2
+This is a test
+admit helloworld.cc
